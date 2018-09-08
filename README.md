@@ -1,7 +1,3 @@
----
-typora-root-url: ./
----
-
 # Seattle CoderDojo: Scratch to Script
 Are you good with Scratch but want to move up to coding in a modern programming language?
 
